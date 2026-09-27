@@ -1,4 +1,21 @@
 bui thi kim thanh
+<<<<<<< Updated upstream
+=======
+bui thi kim thanh
+
+bui thi kim thanh
+
+bui thi kim thanh
+
+bui thi kim thanh
+
+bui thi kim thanh
+
+day la task 2
+day la task 2
+day la task 2
+
+>>>>>>> Stashed changes
 Tuần 1 (bài 1,2): làm quen AI, code cơ bản
 Tuần 2: prompt, file .MD
 Tuần 3: tester, database
@@ -61,4 +78,5 @@ Bên dưới là câu đánh giá khen món ăn ngon, bàn ghế sạch sẽ...
 Bên trái là địa chỉ: 213A Nguyễn Văn Cừ, Chợ Quán, TP Hồ Chí Minh
 Bên phải là iframe Google Map: 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.661615575531!2d106.6833369!3d10.760541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752fb9cb39fbe5%3A0x792afd5dac004956!2zS0ZDIE5ndXnhu4VuIFbEg24gQ-G7qyBUUCBI4buTIENow60gTWluaA!5e0!3m2!1sen!2s!4v1789893249525!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
 
