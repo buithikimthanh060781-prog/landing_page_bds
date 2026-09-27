@@ -1,3 +1,4 @@
+bui thi kim thanh
 Tuần 1 (bài 1,2): làm quen AI, code cơ bản
 Tuần 2: prompt, file .MD
 Tuần 3: tester, database
